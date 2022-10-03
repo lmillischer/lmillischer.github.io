@@ -1,4 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
+url: "https://lmillischer.github.io"
+
 title: Laurent Millischer
 description: [A short description of your site's purpose]
 
